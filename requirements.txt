@@ -1,3 +1,4 @@
 django==1.8.13
 djangorestframework==3.3.3
 datadog
+hipnotify
