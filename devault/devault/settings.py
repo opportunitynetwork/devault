@@ -123,4 +123,4 @@ REST_FRAMEWORK = {
 LOGIN_URL ='/admin/login/?next=/' 
 LOGIN_REDIRECT_URL = '/accounts/profile/'
 
-from devault.settings_secrets import *
+from config.settings_secrets import *
