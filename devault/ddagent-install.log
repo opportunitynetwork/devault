@@ -1,5 +1,0 @@
-[34m
-* Installing apt-transport-https
-[0m
-sudo: 1 incorrect password attempt
-[31m'apt-get update' failed, the script will not install the latest version of apt-transport-https.[0m
